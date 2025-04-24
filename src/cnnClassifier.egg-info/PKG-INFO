@@ -1,0 +1,29 @@
+Metadata-Version: 2.4
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/kalana/Chest-Cancer-Classification-Project
+Author: kalana
+Author-email: kalanas414@gmail.com
+Project-URL: Bug Tracker, https://github.com/kalana/Chest-Cancer-Classification-Project/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+version_1
+
+python template.py
+
+push to github  ------> 
+
+git add .
+git commit -m "folder structure added"
+git push origin version_1
+
+conda create -n cancer python=3.8 -y
+conda activate cancer
+
+pip install -r requirements.txt
